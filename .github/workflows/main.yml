@@ -29,5 +29,5 @@ jobs:
         files: |
            /home/runner/work/box64_build_winlator/box64_build_winlator/box64/build/box64_w10_box32.tzst
            /home/runner/work/box64_build_winlator/box64_build_winlator/box64/build/box64_wp_box32.tzst
-           /home/runner/work/box64_build_winlator/box64_build_winlator/box64/box64/buildNo32/box64_wp.tzst
+           /home/runner/work/box64_build_winlator/box64_build_winlator/box64/buildNo32/box64_wp.tzst
            /home/runner/work/box64_build_winlator/box64_build_winlator/box64/buildNo32/box64_w10.tzst
