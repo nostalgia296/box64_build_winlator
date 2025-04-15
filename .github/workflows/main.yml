@@ -1,7 +1,6 @@
 name: Build "Box64"
 
 on:
-  workflow_dispatch:
   schedule:
   - cron: '0 8 * * 3'
 permissions:
