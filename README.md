@@ -1,1 +1,1 @@
-自动为winlator自动构建的box64
+build box64 for winlator1-10
