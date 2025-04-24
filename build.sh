@@ -9,7 +9,7 @@ mv ./box64 ./usr/local/bin/
 patchelf --set-interpreter /data/data/com.winlator/files/rootfs/lib/ld-linux-aarch64.so.1 ./usr/local/bin/box64
 tar -cf ./box64_w10_box32.tar ./usr/local/bin/box64
 zstd -z ./box64_w10_box32.tar
-mv ./box64_w10_box32.tar.zst ./box64_w10_box32.tzst
+mv ./box64_w10_box32.tar.zst ./box64_w10_box32.whp
 cd ..
 mkdir buildNo32
 cd buildNo32
@@ -20,4 +20,4 @@ mv ./box64 ./usr/local/bin/
 patchelf --set-interpreter /data/data/com.winlator/files/rootfs/lib/ld-linux-aarch64.so.1 ./usr/local/bin/box64
 tar -cf ./box64_w10.tar ./usr/local/bin/box64
 zstd -z ./box64_w10.tar
-mv ./box64_w10.tar.zst ./box64_w10.tzst
+mv ./box64_w10.tar.zst ./box64_w10.whp
