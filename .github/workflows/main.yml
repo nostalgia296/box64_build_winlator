@@ -27,5 +27,5 @@ jobs:
         tag_name: box64new
         name: Release
         files: |
-           /home/runner/work/box64_build_winlator/box64_build_winlator/box64/build/box64_w10_box32.tzst
-           /home/runner/work/box64_build_winlator/box64_build_winlator/box64/buildNo32/box64_w10.tzst
+           /home/runner/work/box64_build_winlator/box64_build_winlator/box64/build/box64_w10_box32.whp
+           /home/runner/work/box64_build_winlator/box64_build_winlator/box64/buildNo32/box64_w10.whp
