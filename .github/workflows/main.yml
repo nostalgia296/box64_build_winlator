@@ -23,7 +23,7 @@ jobs:
     - name: Release "Box64"
       uses: softprops/action-gh-release@v1
       with:
-        body: .tzst for winlator1-9 and .whp for winlator10
+        body: fix is more stable on 10
         tag_name: box64new
         name: Release
         files: |
