@@ -25,7 +25,7 @@ jobs:
       uses: softprops/action-gh-release@v1
       with:
         body: fix is more stable on 10
-        tag_name: box64new
+        tag_name: Winlator10
         name: Release
         files: |
            /home/runner/work/box64_build_winlator/box64_build_winlator/box64/buildNo32/box64_w10.whp
